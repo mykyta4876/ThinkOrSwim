@@ -1,0 +1,6 @@
+2024-10-18 12:47:16,950 - logs - INFO - Click to authenticate:
+2024-10-18 12:47:16,951 - logs - INFO - https://api.schwabapi.com/v1/oauth/authorize?client_id=your-app-key&redirect_uri=https://127.0.0.1
+2024-10-18 12:47:17,117 - logs - INFO - Paste Returned URL:
+2024-10-18 12:48:06,946 - logs - INFO - Click to authenticate:
+2024-10-18 12:48:06,947 - logs - INFO - https://api.schwabapi.com/v1/oauth/authorize?client_id=iVm16EvmauKNKwHjvLbocVjhiH5cbabA&redirect_uri=https://127.0.0.1
+2024-10-18 12:48:07,091 - logs - INFO - Paste Returned URL:
